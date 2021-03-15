@@ -11,5 +11,6 @@
 
 # Technologies used here:
 - HTML / CSS;
+- SCSS
 - Flexbox
 - Java Script
