@@ -5,6 +5,7 @@
 
 # What we can see here:
 - Gallery
+- Slider
 - Contact form
 - Burger Menu
 
